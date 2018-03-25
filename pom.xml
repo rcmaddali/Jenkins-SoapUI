@@ -44,7 +44,7 @@
 				</dependencies>
 				<configuration>
 					<tool>wsi,axis1,axis2</tool>
-					<projectFile>/Users/ravimaddali/SoapUI-Tutorials/GlobalWeather-soapui-project.xml</projectFile>
+					<projectFile>src/test/java/GlobalWeather-soapui-project.xml</projectFile>
 					<junitReport>true</junitReport>
 					<outputFolder>reports/</outputFolder>
 					
